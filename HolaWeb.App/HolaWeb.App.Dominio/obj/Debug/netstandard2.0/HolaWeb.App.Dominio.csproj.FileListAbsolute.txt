@@ -1,0 +1,9 @@
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\Users\felip\Desktop\Nueva carpeta\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
